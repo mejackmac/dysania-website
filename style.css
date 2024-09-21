@@ -3,25 +3,25 @@
     font-family: 'Noto Sans';
     font-style: normal;
     font-weight: 400;
-    src: url(/fonts/NotoSans-Regular.ttf) format('ttf');
+    src: url(/fonts/NotoSans-Regular.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Noto Sans';
     font-style: italic;
     font-weight: 400;
-    src: url(/fonts/NotoSans-Italic.ttf) format('ttf');
+    src: url(/fonts/NotoSans-Italic.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Noto Sans';
     font-style: bold;
     font-weight: 700;
-    src: url(/fonts/NotoSans-Bold.ttf) format('ttf');
+    src: url(/fonts/NotoSans-Bold.ttf) format('truetype');
 }
 @font-face {
     font-family: 'Noto Sans';
     font-style: italic;
     font-weight: 700;
-    src: url(/fonts/NotoSans-BoldItalic.ttf) format('ttf');
+    src: url(/fonts/NotoSans-BoldItalic.ttf) format('truetype');
 }
 
 body {
