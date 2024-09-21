@@ -34,7 +34,10 @@ body {
 /* Navbar */
 ul.navbar {
     list-style-type: none;
-    margin: 0;
+    margin-left: 0;
+    margin-bottom: 1px;
+    margin-right: 0;
+    margin-top: 1px;
     padding: 0;
     overflow: hidden;
     background-color: #00202e;
@@ -43,7 +46,7 @@ ul.navbar {
     border-radius: 30px;
     position: fixed;
     top: 0;
-    width: 100%;
+    width: 99%;
 }
 li.navbar {
     float: left;
