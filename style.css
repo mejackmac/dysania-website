@@ -52,8 +52,12 @@ li.navbar a {
     padding: 14px 16px;
     text-decoration: none;
     border-style: solid;
-    border-radius: 1%;
+    border-radius: 10%;
     border-color: #bc5090;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 li.navbar a:hover {
     background-color: #8a508f;
