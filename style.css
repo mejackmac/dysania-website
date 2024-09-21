@@ -40,7 +40,7 @@ ul.navbar {
     background-color: #00202e;
     border-style: solid;
     border-color: #2c4875;
-    border-radius: 15px;
+    border-radius: 30px;
     position: fixed;
     top: 0;
     width: 100%;
@@ -52,17 +52,19 @@ li.navbar a {
     display: block;
     color: #ffd380;
     text-align: center;
-    padding: 14px 16px;
+    padding: 12px 14px;
     text-decoration: none;
     border-style: solid;
-    border-radius: 17px;
+    border-radius: 25px;
     border-color: #00202e;
     margin-top: 1px;
     margin-bottom: 1px;
-    margin-left: 0;
-    margin-right: 3px;
+    margin-left: 1px;
+    margin-right: 1px;
 }
 li.navbar a:hover {
     background-color: #8a508f;
-    border-color: #bc5090;
+}
+.active {
+    background-color: #ffa600;
 }
