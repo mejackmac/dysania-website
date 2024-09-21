@@ -1,29 +1,29 @@
 /* font things */
 @font-face {
-    font-family: 'Noto-Sans';
+    font-family: 'Noto Sans';
     font-style: normal;
     font-weight: 400;
     src: url(/fonts/NotoSans-Regular.ttf) format('ttf');
 }
 @font-face {
-    font-family: 'Noto-Sans';
+    font-family: 'Noto Sans';
     font-style: italic;
     font-weight: 400;
     src: url(/fonts/NotoSans-Italic.ttf) format('ttf');
 }
 @font-face {
-    font-family: 'Noto-Sans';
+    font-family: 'Noto Sans';
     font-style: bold;
     font-weight: 700;
     src: url(/fonts/NotoSans-Bold.ttf) format('ttf');
 }
 @font-face {
-    font-family: 'Noto-Sans';
+    font-family: 'Noto Sans';
     font-style: italic;
     font-weight: 700;
     src: url(/fonts/NotoSans-BoldItalic.ttf) format('ttf');
 }
 
 body {
-    font-family: 'Noto-Sans';
+    font-family: 'Noto Sans';
 }
