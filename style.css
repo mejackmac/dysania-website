@@ -37,7 +37,7 @@ ul.navbar {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #003f5c;
+    background-color: #00202e;
     position: fixed;
     top: 0;
     width: 100%;
@@ -53,12 +53,13 @@ li.navbar a {
     text-decoration: none;
     border-style: solid;
     border-radius: 5px;
-    border-color: #bc5090;
+    border-color: #2c4875;
     margin-top: 0;
     margin-bottom: 0;
     margin-left: 0;
-    margin-right: 10px;
+    margin-right: 5px;
 }
 li.navbar a:hover {
     background-color: #8a508f;
+    border-color: #bc5090;
 }
